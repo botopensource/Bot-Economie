@@ -1,0 +1,8 @@
+{
+	"BOT_OWNER_ID": [
+		"Ton identifiant Discord"
+	],
+	"BOT_TOKEN": "Token du bot",
+	"BOT_PREFIX": "Prefix du bot",
+	"BOT_SUPPORT_ID": "Identifiant du serveur support du bot"
+}
